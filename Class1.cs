@@ -6,5 +6,6 @@ namespace ConsoleApp1l
 {
     class Class1
     {
+        /*jelena: komentar*/
     }
 }
